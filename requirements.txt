@@ -1,5 +1,5 @@
+langchain_core
+langchain_openai
+os
 streamlit
 dotenv
-langchain
-langchain-openai
-os
